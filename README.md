@@ -1,0 +1,2 @@
+# latarepo
+Lata's repository
